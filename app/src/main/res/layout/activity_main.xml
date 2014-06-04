@@ -129,13 +129,13 @@
         android:text="C"
         android:id="@+id/buttonC"
         android:layout_below="@+id/editText"
-        android:layout_toRightOf="@+id/buttonAd" />
+        android:layout_toRightOf="@+id/buttonAdd" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="+"
-        android:id="@+id/buttonAd"
+        android:id="@+id/buttonAdd"
         android:layout_below="@+id/editText"
         android:layout_toRightOf="@+id/button3" />
 
