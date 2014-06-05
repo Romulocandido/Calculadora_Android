@@ -106,7 +106,7 @@ public class MainActivity extends Activity {
                     NumberBf = 0;
                     Operation = "";
                     break;
-                case R.id.buttonAd:
+                case R.id.buttonAdd:
                     mMath("+");
                     break;
                 case R.id.buttonSub:
